@@ -1,29 +1,29 @@
-# refactor_horiseon
-TITLE: Coding Refactor for Horiseon Webpage
+# Coding Refactor for Horiseon Webpage
 
-DESCRIPTION: 
-The primary goal of this application was to improve accessibility for this webpage. Alternate text was
-added for all images and icons. 
+## Description:
+- The primary goal of this application was to improve accessibility for this webpage. 
+- Alternate text was added for all images and icons. 
+- Basic consolidation was also performed, reducing redundancies in the code. 
+- Comments were made in the stylesheet to label categories as well as explain any changes made in that category. 
+- Semantic elements were substituted for HTML elements to improve readability.
+- A descriptive title was provided.
 
-Basic consolidation was also performed, reducing redundancies in the code. Comments were made in the stylesheet to label categories as well as explain any changes made in that category. 
+## Instructions:
+Upload index.html and assets folder to web browser. Assets folder contains stylesheet and images. 
 
-Semantic elements were substituted for HTML elements to improve readability.
+## Links: 
+- [Horiseon Webpage](https://lornaburns.github.io/coding-refactor-horiseon/)
+- [Repository](https://github.com/lornaburns/coding-refactor-horiseon)
 
-A descriptive title was provided.
+## Use: 
+This webpage can be displayed on a desktop browser. It is not yet responsive to smaller screen sizes.
 
-INSTRUCTIONS: Upload index.html and assets folder to web browser. Assets folder contains stylesheet and images. 
+## Image: 
+<img src="https://raw.githubusercontent.com/lornaburns/coding-refactor-horiseon/8dcba901055d46484b015f96b26f578e73829e09/screenshot-horiseon.jpg" alt="Horiseon webpage" width="200"/>
 
-LINKS: https://lornaburns.github.io/coding-refactor-horiseon/
-
-       https://github.com/lornaburns/coding-refactor-horiseon
-
-USE: This webpage can be displayed on a desktop browser. It is not yet responsive to smaller screen sizes.
-
-IMAGE: lornaburns.github.io_coding-refactor-horiseon_.png
-
-CREDITS:
-https://www.w3schools.com/html/html5_semantic_elements.asp
-https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
-https://chat.openai.com/share/4a61dbb8-800a-44e0-9351-ba823c566a55
+## Credits:
+- https://www.w3schools.com/html/html5_semantic_elements.asp
+- https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
+- https://chat.openai.com/share/4a61dbb8-800a-44e0-9351-ba823c566a55
 
 
